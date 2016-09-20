@@ -1,0 +1,31 @@
+
+p {
+  color: green;
+  font-size: italic;
+  }
+
+a {
+  font-size: 33px;
+  text-decoration: overline;
+
+}
+
+/*.greeen {
+text-decoration: underline;
+color: rgb(15, 180, 170)
+}*/
+
+.green {
+  color: green;
+}
+
+.primary list {
+  color: green;
+  text-decoration: underline; 
+}
+/* first nesting method - direct */
+
+li > li {
+color: red;
+font-weight:
+}
